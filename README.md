@@ -2,12 +2,12 @@
 
 The above software is a part of our engineering project. The goal was to construct a physical model and software on the executive side (microcontroller) and microcomputer side for tracking a light source. An important aspect was the construction of a flexible solution based on a database.
 
-# Microcontroller part
+## Microcontroller part
 
 The following software has been prepared to create a simple interface to control small servos and perform electrical load measurements using the INA219 chip. 
 Ultimately, the code was prepared for the Arduino UNO board, but even a smaller platform should handle it without any problems.
 
-# Microcomputer part
+## Microcomputer part
 
 The software for the microcomputer was written in Python and ran on the Raspbian environment. Key functionalities included communication with Arduino, saving and reading data from a SQLite database, and executing algorithms for optimizing electricity production.
 
