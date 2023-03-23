@@ -47,10 +47,3 @@ class Data():
         mess.extend(args)
         self.cursor.execute("INSERT INTO FIRST_DATA VALUES (null,?,?,?,?,?,?,datetime('now','localtime'))",mess)
         self.conns.commit()
-
-'''
-d = Data()
-maxi = d.last_one()
-print(type(maxi))
-d.close()
-'''
