@@ -41,3 +41,7 @@ Install all required packages
 ## IMPORTANT
 
 If you want to run this software, you need to properly configure it on all devices. This software cannot function independently.
+
+#LICENSE
+
+This project is licensed under the APACHE License. For further information please read LICENCE.MD
