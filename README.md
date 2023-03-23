@@ -40,4 +40,4 @@ Install all required packages
 
 ## IMPORTANT
 
-If you want to run this software you have to properly configure it in all devices. This software does not work on its own.
+If you want to run this software, you need to properly configure it on all devices. This software cannot function independently.
