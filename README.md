@@ -42,6 +42,6 @@ Install all required packages
 
 If you want to run this software, you need to properly configure it on all devices. This software cannot function independently.
 
-# LICENSE
+## LICENSE
 
 This project is licensed under the APACHE License. For further information please read [LICENSE](LICENSE.MD)
