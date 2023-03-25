@@ -15,6 +15,11 @@ The software for the microcomputer was written in Python and ran on the Raspbian
 
 To set the things up, you have to do following steps:
 
+Create virtual environment
+```bash
+  virtualenv venv
+```
+
 Clone the project
 
 ```bash
@@ -29,7 +34,7 @@ Go to the project directory
 Activate virtual environment
 
 ```bash
-  source env/bin/activate
+  source venv/bin/activate
 ```
 
 Install all required packages
